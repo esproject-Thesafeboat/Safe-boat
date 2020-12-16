@@ -23,8 +23,5 @@
 
 GET https://api.thingspeak.com/apps/thinghttp/send_request?api_key=JRPZHS4D2JS8JSWG
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esproject-Thesafeboat/Safe-boat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
