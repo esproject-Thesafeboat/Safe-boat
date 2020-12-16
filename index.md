@@ -9,6 +9,8 @@
 **Here we use gps sensor,PIR sensor,MPU 6050 gyrosensor for collecting data.**
 **By using arduino uno and node mcu we collect data and upload to server.**
 
+![Image](Screenshot(174).png)
+
 
 
 ##X-graph
