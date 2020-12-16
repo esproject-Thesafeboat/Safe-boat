@@ -6,6 +6,9 @@
 
 # ES-PROJECT GROUP-12
 ## THE SAFE BOAT.
+**Here we use gps sensor,PIR sensor,MPU 6050 gyrosensor for collecting data.**
+**By using arduino uno and node mcu we collect data and upload to server.**
+
 
 
 ##X-graph
