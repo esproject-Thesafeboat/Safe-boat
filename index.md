@@ -1,14 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to the new Project.
+**The project deals on rescue of people in Boat.**
+>Done by Group-12
 
-You can use the [editor on GitHub](https://github.com/esproject-Thesafeboat/Safe-boat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Boats](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd3lp4xedbqa8a5.cloudfront.net%2Fimagegen%2Fp%2F800%2F600%2Fs3%2Fdigital-cougar-assets%2Fmomoads%2F2015%2F10%2F27%2FMisc%2F2014-Image---SS-(1).JPG&f=1&nofb=1)
+
 # ES-PROJECT GROUP-12
 ## THE SAFE BOAT.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
