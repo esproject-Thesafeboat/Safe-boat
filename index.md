@@ -7,27 +7,7 @@
 # ES-PROJECT GROUP-12
 ## THE SAFE BOAT.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-
-```markdown
-Syntax highlighted code block
-
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ##X-graph
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1257746/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&api_key=SK2A7RGCU3ZK098K&results=60&type=line&update=15"></iframe>  
 ##Y-graph
