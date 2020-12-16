@@ -15,14 +15,12 @@
 
 ##Z-graph
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1257746/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&api_key=SK2A7RGCU3ZK098K&results=60&type=line&update=15"></iframe>
+**graph of coordinates**
 ##Coordinates
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1257746/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&api_key=SK2A7RGCU3ZK098K&results=60&type=line&update=15"></iframe>
 
-
-
-
-GET https://api.thingspeak.com/apps/thinghttp/send_request?api_key=JRPZHS4D2JS8JSWG
-##count graph
+**graph of count**
+##count graph 
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1229741/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&api_key=
 GFG3ETKLK028RYW4&results=60&type=line&update=15"></iframe>
 
